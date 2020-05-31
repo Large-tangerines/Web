@@ -31,30 +31,29 @@
             <div class="subnav">
                 <ul>
                     <a href=""><li>前端开发<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>后端开发<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>移动开发<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>人工智能<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>商业预测<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>云计算&大数据<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>运维&测试<span class="you"><img src="image/arrow-white.png"></span></li></a>
-			              <a href=""><li>UI设计<span class="you"><img src="image/arrow-white.png"></span></li></a>
-		               	<a href=""><li>产品<span class="you"><img src="image/arrow-white.png"></span></li></a>span></a></li>
+                    <a href=""><li>后端开发<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>移动开发<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>人工智能<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>商业预测<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>云计算&大数据<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>运维&测试<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>UI设计<span class="you"><img src="image/arrow-white.png"></span></li></a>
+		    <a href=""><li>产品<span class="you"><img src="image/arrow-white.png"></span></li></a>
                 </ul>
             </div>
         </div>
-
     </div>
     <div class="goods w">
-        <h3>精品推荐</h3>
-        <ul>
-            <li><a href="#">JQuery</a></li>
-            <li><a href="#">Spark</a></li>
-            <li><a href="#">MySQL</a></li>
-            <li><a href="#">JavaWeb</a></li>
-            <li><a href="#">MySQL</a></li>
-            <li><a href="#">JavaWeb </a></li>
-        </ul>
-        <a href="#" class="mod">修改兴趣</a>
+	<ul class="navul2">
+            <a href=""><li class="navulli">精品推荐</li></a>
+	    <a href=""><li>JQuery</li></a>
+	    <a href=""><li>Spark</li></a>
+	    <a href=""><li>MySQL</li></a>
+	    <a href=""><li>JavaWeb</li></a>
+	    <a href=""><li>MySQL</li></a>
+	    <a href=""><li class="navulli2">JavaWeb</li></a>
+		</ul>
+		<a href="" class="hahahb">修改兴趣</a>
     </div>
     <div class="box w">
         <div class="box-hd">
